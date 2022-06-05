@@ -5,3 +5,6 @@
 /.vs
 /BookStore/.vs/BookStore/v16
 /BookStore/BookStore/obj
+/BookStore/.vs/BookStore/config/applicationhost.config
+/BookStore/.vs/BookStore/DesignTimeBuild/.dtbcache.v2
+/BookStore/BookStore/bin/Debug/netcoreapp3.1
